@@ -1,0 +1,53 @@
+2026-06-01 20:57:27,199 INFO __main__ - Dry-run mode: API calls will be simulated
+2026-06-01 20:57:27,204 INFO trading_bot.orders - Placing order: BUY MARKET BTCUSDT qty=0.001 price=None dry_run=True
+2026-06-01 20:57:27,207 INFO trading_bot.client - Dry-run enabled — not sending request to https://testnet.binancefuture.com/fapi/v1/order
+2026-06-01 20:57:27,209 INFO trading_bot.orders - Order response: {'orderId': 1780327647, 'status': 'FILLED', 'executedQty': '0.001', 'avgPrice': '0'}
+2026-06-01 20:59:17,093 INFO __main__ - Dry-run mode: API calls will be simulated
+2026-06-01 20:59:17,094 INFO trading_bot.orders - Placing order: BUY MARKET BTCUSDT qty=0.001 price=None dry_run=True
+2026-06-01 20:59:17,100 INFO trading_bot.client - Dry-run enabled — not sending request to https://testnet.binancefuture.com/fapi/v1/order
+2026-06-01 20:59:17,101 INFO trading_bot.orders - Order response: {'orderId': 1780327757, 'status': 'FILLED', 'executedQty': '0.001', 'avgPrice': '0'}
+2026-06-01 21:01:22,587 INFO __main__ - Dry-run mode: API calls will be simulated
+2026-06-01 21:01:22,594 INFO trading_bot.orders - Placing order: BUY MARKET BTCUSDT qty=0.001 price=None dry_run=True
+2026-06-01 21:01:22,594 INFO trading_bot.client - Dry-run enabled — not sending request to https://testnet.binancefuture.com/fapi/v1/order
+2026-06-01 21:01:22,594 INFO trading_bot.orders - Order response: {'orderId': 1780327882, 'status': 'FILLED', 'executedQty': '0.001', 'avgPrice': '30000.0'}
+2026-06-01 21:11:06,015 INFO __main__ - Dry-run mode: API calls will be simulated
+2026-06-01 21:11:06,029 INFO trading_bot.orders - Placing order: BUY MARKET BTCUSDT qty=0.001 price=None dry_run=True
+2026-06-01 21:11:06,037 INFO trading_bot.client - Dry-run enabled — not sending request to https://testnet.binancefuture.com/fapi/v1/order
+2026-06-01 21:11:06,037 INFO trading_bot.orders - Order response: {'orderId': 1780328466, 'status': 'FILLED', 'executedQty': '0.001', 'avgPrice': '30000.0'}
+2026-06-01 21:14:39,118 INFO __main__ - Dry-run mode: API calls will be simulated
+2026-06-01 21:14:39,127 INFO trading_bot.orders - Placing order: BUY MARKET BTCUSDT qty=0.001 price=None dry_run=True
+2026-06-01 21:14:39,127 INFO trading_bot.client - Dry-run enabled — not sending request to https://testnet.binancefuture.com/fapi/v1/order
+2026-06-01 21:14:39,134 INFO trading_bot.orders - Order response: {'orderId': 1780328679, 'status': 'FILLED', 'executedQty': '0.001', 'avgPrice': '30000.0'}
+2026-06-01 21:14:57,044 INFO __main__ - Dry-run mode: API calls will be simulated
+2026-06-01 21:14:57,050 INFO trading_bot.orders - Placing order: BUY MARKET BTCUSDT qty=0.001 price=None dry_run=True
+2026-06-01 21:14:57,051 INFO trading_bot.client - Dry-run enabled — not sending request to https://testnet.binancefuture.com/fapi/v1/order
+2026-06-01 21:14:57,051 INFO trading_bot.orders - Order response: {'orderId': 1780328697, 'status': 'FILLED', 'executedQty': '0.001', 'avgPrice': '30000.0'}
+2026-06-01 21:15:23,626 INFO __main__ - Dry-run mode: API calls will be simulated
+2026-06-01 21:15:23,626 INFO trading_bot.orders - Placing order: BUY MARKET BTCUSDT qty=0.001 price=None dry_run=True
+2026-06-01 21:15:23,626 INFO trading_bot.client - Dry-run enabled — not sending request to https://testnet.binancefuture.com/fapi/v1/order
+2026-06-01 21:15:23,626 INFO trading_bot.orders - Order response: {'orderId': 1780328723, 'status': 'FILLED', 'executedQty': '0.001', 'avgPrice': '30000.0'}
+2026-06-01 21:16:00,772 INFO __main__ - Dry-run mode: API calls will be simulated
+2026-06-01 21:16:00,772 INFO trading_bot.orders - Placing order: BUY MARKET BTCUSDT qty=0.001 price=None dry_run=True
+2026-06-01 21:16:00,772 INFO trading_bot.client - Dry-run enabled — not sending request to https://testnet.binancefuture.com/fapi/v1/order
+2026-06-01 21:16:00,777 INFO trading_bot.orders - Order response: {'orderId': 1780328760, 'status': 'FILLED', 'executedQty': '0.001', 'avgPrice': '30000.0'}
+2026-06-01 21:16:16,035 INFO __main__ - Dry-run mode: API calls will be simulated
+2026-06-01 21:16:16,035 INFO trading_bot.orders - Placing order: BUY MARKET BTCUSDT qty=0.001 price=None dry_run=True
+2026-06-01 21:16:16,035 INFO trading_bot.client - Dry-run enabled — not sending request to https://testnet.binancefuture.com/fapi/v1/order
+2026-06-01 21:16:16,041 INFO trading_bot.orders - Order response: {'orderId': 1780328776, 'status': 'FILLED', 'executedQty': '0.001', 'avgPrice': '30000.0'}
+2026-06-01 21:19:11,334 INFO __main__ - Dry-run mode: API calls will be simulated
+2026-06-01 21:19:11,339 ERROR __main__ - Order failed: name 'client' is not defined
+2026-06-01 21:30:28,550 INFO __main__ - Dry-run mode: API calls will be simulated
+2026-06-01 21:30:28,550 ERROR __main__ - Order failed: name 'client' is not defined
+2026-06-01 22:10:36,500 INFO __main__ - Dry-run mode: API calls will be simulated
+2026-06-01 22:10:36,500 INFO trading_bot.orders - Placing order: BUY MARKET BTCUSDT qty=0.001 price=None dry_run=True
+2026-06-01 22:10:36,500 INFO trading_bot.client - Dry-run enabled — not sending request to https://testnet.binancefuture.com/fapi/v1/order
+2026-06-01 22:10:36,500 INFO trading_bot.orders - Order response: {'orderId': 1780332036, 'status': 'FILLED', 'executedQty': '0.001', 'avgPrice': '30000.0'}
+2026-06-01 22:11:57,334 INFO __main__ - Dry-run mode: API calls will be simulated
+2026-06-01 22:11:57,350 INFO trading_bot.orders - Placing order: BUY MARKET BTCUSDT qty=0.001 price=None dry_run=True
+2026-06-01 22:11:57,350 INFO trading_bot.client - Dry-run enabled — not sending request to https://testnet.binancefuture.com/fapi/v1/order
+2026-06-01 22:11:57,350 INFO trading_bot.orders - Order response: {'orderId': 1780332117, 'status': 'FILLED', 'executedQty': '0.001', 'avgPrice': '30000.0'}
+2026-06-01 22:15:57,281 ERROR __main__ - Invalid input: side must be BUY or SELL
+2026-06-01 22:16:18,412 INFO __main__ - Dry-run mode: API calls will be simulated
+2026-06-01 22:16:18,412 INFO trading_bot.orders - Placing order: BUY MARKET BTCUSDT qty=0.001 price=None dry_run=True
+2026-06-01 22:16:18,412 INFO trading_bot.client - Dry-run enabled — not sending request to https://testnet.binancefuture.com/fapi/v1/order
+2026-06-01 22:16:18,412 INFO trading_bot.orders - Order response: {'orderId': 1780332378, 'status': 'FILLED', 'executedQty': '0.001', 'avgPrice': '30000.0'}
