@@ -100,13 +100,6 @@ python main.py --symbol BTCUSDT --side BUY --type MARKET --quantity 0.001
 - Keys are read from environment variables for safety.
 - Dry-run mode is suitable for generating sample logs for submissions.
 
-## Next / Bonus Ideas
-
-- Add Stop-Limit / OCO order type (bonus).
-- Improve interactive CLI UX.
-- Add unit tests and CI.
-
----
 
 
 
